@@ -24,7 +24,9 @@
 			<td><a href="qna.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068798/b4424a72-223c-11e7-8e7d-76de100c6cfd.jpg" width="280" height="200"><br>
 			关于法轮功真相的几个问答</a></td>
-			<td><a href="huozhaizhenxiang.md"><img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068780/b42cddd6-223c-11e7-886f-bdef820abb9b.png" width="280" height="200"><br> 中共活摘器官</a></td>
+			<td><a href="huozhaizhenxiang.md">
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068780/b42cddd6-223c-11e7-886f-bdef820abb9b.png" width="280" height="200"><br>
+			中共活摘器官</a></td>
 		</tr>
 	</table>
 </div>
