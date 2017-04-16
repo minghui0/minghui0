@@ -1,12 +1,3 @@
-<div align="center">
-	
-
-<table border="0" width="700" id="table1">
-		<tr>
-			<td>
-			
-
-<p align="center">
 
 # 中共活摘器官
 			
