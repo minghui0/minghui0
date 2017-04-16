@@ -1,6 +1,3 @@
-<div align="center">
-	
-
 <table border="0" id="table1">
 <tr>
 <td>
