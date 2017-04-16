@@ -26,7 +26,7 @@
 			<p align="left">
 			在“自焚”事件发生一个星期之后，央视的“焦点访谈”播出了自焚专题节目，里面引用了很多自焚现场的录像。但是，通过对“焦点访谈”的自焚录像进行慢镜头播放和分析，发现了大量疑点。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			被当场灭口的刘春玲</span></p>
 			<p align="center">
 			<img border="0" src="zfzx_files/image013.jpg" width="454" height="188"><br>
@@ -38,38 +38,38 @@
 			自焚事件发生不久，世界著名媒体“华盛顿邮报”记者菲力蒲?潘（Phillip 
 			Pan），亲自到刘春玲的家乡开封实地调查，邻居们说，从来没有人看见过刘春玲炼法轮功，而且刘春玲生前在夜总会靠陪吃陪舞谋生，还不时殴打老母和幼女。这与“打不还手，骂不还口”的法轮功学员相差甚远。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			采访不穿隔离衣？</span></p>
 			<p align="center">
 			<img border="0" src="zfzx_files/image016.jpg" width="209" height="136"></p>
 			<p align="left">
 			根据医学常识，为防细菌感染，危及生命，大面积烧伤病人要住隔离病房，探视者需穿戴隔离衣帽、手套、鞋套。而“焦点访谈”记者李玉强直接穿便服近距离采访刘思影，分明是在演戏！<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			头发和塑料瓶子烧不坏？</span></p>
 			<p align="center">
 			<img border="0" src="zfzx_files/image018.jpg" width="320" height="217"></p>
 			<p align="left">
 			央视录像中，被大火烧过的王进东，面部严重烧坏，腿上的棉衣烧烂，但他两腿间盛汽油的塑料雪碧瓶却翠绿如新，最易着火的头发也还完整。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			气管切开4天能唱歌？</span></p>
 			<p align="center">
 			<img border="0" src="zfzx_files/image020.jpg" width="180" height="182"></p>
 			<p align="left">
 			央视称，12岁的刘思影做了气管切开手术。手术切口在声带的下方，此时人通过插入切口的管子呼吸，气流不过声带，根本无法正常说话。但刘思影术后4天接受记者李玉强采访时，不仅说话底气十足，还对着麦克风唱歌！被海外医学界人士戏称中央电视台“创造了医学奇迹”。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			喝汽油最多的人？</span><br>
 			<br>
 			“焦点访谈”节目报道了一个自焚未遂者刘葆荣。刘自称在天安门广场喝了半瓶（大雪碧瓶）汽油。据医学资料，口服汽油每公斤体重7.5克即致人死亡。刘喝半瓶汽油竟没有一点中毒症状，显然是在骗人！<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			大量灭火器材从何而来？</span><br>
 			<br>
 			天安门广场上没有灭火器材，也从没有见过背着灭火器巡逻的警察。“自焚”发生后，仅一分多钟的时间内，现场警察就拿出了十几个灭火器。按照天安门广场的横、纵向距离计算，根本不可能在这么短时间内取到灭火器；而且现场显示的两辆警车，平时也不可能装备大量灭火器材。如果不是事先知情，精心策划，警察怎么可能在一分多钟的时间内迅速拿出十几个灭火器及灭火毯？<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			近距离特写镜头是怎么拍的？</span></p>
 			<p align="left">
 			中共称：自焚录像是由安装在天安门广场的监视摄像机拍摄的。但央视录像却有大量近距离及特写镜头，这是监视摄像机做不到的。<br>
@@ -83,14 +83,14 @@
 			<p align="left">
 			从央视的自焚录像上，可清楚看到在广场军警中间，一个背摄影包的男子正在从容地现场拍摄。当外界指问此人是谁时，中共不敢回应。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			警察等镜头，拎着灭火毯作秀</span></p>
 			<p align="center">
 			<img border="0" src="zfzx_files/image018.jpg" width="320" height="217"></p>
 			<p align="left">
 			央视自焚录像中，自焚的王进东身后，一警察单手拎着灭火毯，晃来晃去等待拍摄，等王喊完口号后，才把灭火毯盖到王的头上：这明显是在演戏。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			现场记者：自焚录像是造假</span><br>
 			<br>
 			2002年初，记者李玉强（自焚案采访者）在河北省会法制教育培训中心（强迫法轮功学员放弃信仰的洗脑班）采访，被非法关押的法轮功学员追问自焚案的种种漏洞，李不得不承认：“王进东”腿间的雪碧瓶子是她们放进去“补拍”的。</p>
@@ -98,7 +98,7 @@
 			<img border="0" src="zfzx_files/image026.jpg" width="381" height="51"></p>
 			<p align="left">中共精心策划了“自焚”事件，但是真相被披露后，这一世纪伪案使中共的丑恶彻底曝光，成为它无法摆脱的梦魇。<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			英国外科医生谈“自焚”之造假</span><br>
 			<br>
 			我是外科医生，“天安门自焚”事件发生后，出于职业敏感，我特别分析了中央电视台“焦点访谈”播出的自焚过程和对伤者救治情况的全部镜头以及后续治疗过程的报道及图片。这里将几个明显的医疗救治疑点记录下来，供大家审视思考。<br>
@@ -111,17 +111,17 @@
 			<br>
 			医院对烧伤患者要严格隔离消毒，医务人员也应少进少出，减少感染机会。怎能允许记者不穿隔离衣、不戴口罩帽子、手拿话筒进行现场采访呢？而且大面积烧伤患者身上坏死组织的腐臭味是一般人难以忍受的，记者又怎能在病房里谈吐自如？<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			政法委科长：我们事先就知道</span><br>
 			<br>
 			2001年9月22日，辽宁省东港市政法委科长赵云龙，在非法关押法轮功学员并强制洗脑的“洗脑班”上说：“‘自焚’这件事我们事先就知道。这件事发生在2001年1月23日，也就是正常过年的除夕下午发生的事，我们在1月21日就接到公安部紧急通知，说1月23日法轮功在天安门广场有重大事件发生……”<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			媒体人士：“自焚”之假戏真唱</span><br>
 			<br>
 			一位电视台的朋友说：“自焚一定是政府演的戏。记者上天安门都要事先申请采访内容，审批很严，我们扛摄像机上天安门要是没有许可证，当时就被轰走。这回自焚前后就一两分钟，拍了个正着，连采访话筒都是准备好的，一看就是导演好的。”<br>
 			<br>
-			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">● 
+			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			国际揭露骗局　中共丑行曝光</span><br>
 			<br>
 			国际教育发展组织(IED)在2001年8月3日声明，谴责中共当局对法轮功的迫害及人权侵犯，之后，同年8月14日在联合国倡导和保护人权附属委员会第53届会议第六项议程中再次发言，强烈谴责中共当局的“国家恐怖主义行为”。<br>
