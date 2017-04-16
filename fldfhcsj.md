@@ -39,7 +39,6 @@
 
 <table border="0" cellspacing="2" cellpadding="0" cols="2" width="580">
 								<tr align="CENTER" valign="top">
-									<p></p>
 									<td align="CENTER">
 									<a href="https://cloud.githubusercontent.com/assets/26177494/25068785/b431f424-223c-11e7-905c-fbeaf547c639.jpg">
 									<img src="https://cloud.githubusercontent.com/assets/26177494/25068785/b431f424-223c-11e7-905c-fbeaf547c639.jpg" width=400 border="1" hspace="5" vspace="5"></a><br>
