@@ -4,9 +4,7 @@
 
 <table border="0" width="700" id="table1" height="678">
 
-<tr align="CENTER" valign="top">
 <td><a href=https://cloud.githubusercontent.com/assets/26177494/23581821/a4fc19ee-00ea-11e7-83dd-0fdecc0f3f10.jpg><img src="https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg">法轮功学员刘成军</td>
-</tr>
 
 		<tr align=center>
 			<td height="220">
