@@ -7,7 +7,7 @@
 			<td height="220"><a href="fldfjj.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg" width="280" height="200"></a><br>
 			<a href="fldfjj.html">法轮大法简介</a></td>
-			<td height="220"><a href="fldfhcsj.html">
+			<td height="220"><a href="fldfhcsj.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068799/b442874e-223c-11e7-9e2c-4db4bbac87ed.jpg" width="280" height="200"></a><br>
 			<a href="fldfhcsj.html">法轮大法洪传世界</a></td>
 		</tr>
