@@ -2,7 +2,7 @@
 
 # 法轮功真相（载自<a href="links.htm">明慧网</a>）
 
-			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg.jpg" width="280" height="200">
+			<img src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg.jpg" width="280" height="200">
 <table border="0" width="700" id="table1" height="678">
 		<tr align=center>
 			<td height="220"><a href="fldfjj.html">
