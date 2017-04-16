@@ -6,6 +6,7 @@
 			<td>
 			
 
+<p align="center">
 
 # 中共活摘器官</p>
 			
@@ -16,7 +17,7 @@
 			
 
 <p align="center">
-			<img border="0" src="huozhaizhenxiang/front-cover-image.jpg" width="511" height="378"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069373/74075ed2-224d-11e7-8b1c-9b9f6a648b6c.jpg" width="511" height="378"></p>
 			<blockquote>
 				<blockquote>
 					
@@ -50,7 +51,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image005.jpg" width="434" height="65"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069374/74089fa4-224d-11e7-8de6-6efda72cfb61.jpg" width="434" height="65"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
@@ -67,7 +68,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image006.png" width="158" height="213"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069375/74092f96-224d-11e7-9c47-1cde76bbd1c5.png" width="158" height="213"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">决议案发起人罗斯-雷婷恩（Ileana 
@@ -83,7 +84,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image007.png" width="175" height="205"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069376/740c1864-224d-11e7-82d7-ff8d0e1e0889.png" width="175" height="205"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">新泽西州国会议员史密斯（Chris 
@@ -109,7 +110,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image008.png" width="175" height="217"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069379/740ef822-224d-11e7-8851-edf83a3ecf93.png" width="175" height="217"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">加拿大人权律师大卫•麦塔斯（David Matas）说：“大卫•乔高和我，在过去的十年中，就中共摘取法轮功学员的器官将他们杀死，一直在进行调查、写报告和演说。”“经过调查分析，我们得出的最终结论是，中共令整个国家参与到大规模谋杀之中，而受害者主要是无辜的法轮功学员，但也有维吾尔族人、藏族人，以及家庭教会成员，为的是获得用于移植的器官。我们认为中共每年移植手术量达6万到10万例。”<br>
@@ -118,7 +119,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image009.png" width="195" height="201"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069377/740c90dc-224d-11e7-81a2-db1bf174a649.png" width="195" height="201"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">资深调查记者伊森•葛特曼（Ethan Gutmann）在听证会上作证：“1999年，中共发起消灭法轮功的运动。截至2001年，超过一百万的法轮功学员被关押进劳教所，并被迫接受器官检查。与此同时，中共军队和地方的移植医院大量增多。”<br>
@@ -129,7 +130,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image010.png" width="168" height="210"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069382/7411fa68-224d-11e7-9e80-c4be48506edb.png" width="168" height="210"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">美国国会议员达纳•罗拉巴克（Dana 
@@ -141,7 +142,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image011.png" width="211" height="226"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069380/740f3e54-224d-11e7-8f7f-61e5f55b6c5f.png" width="211" height="226"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">2016年6月22日，加拿大前亚太司司长大卫•乔高（David Kilgour）、加拿大人权律师大卫•麦塔斯（David 
@@ -192,7 +193,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image012.jpg" width="416" height="62"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069378/740edbc6-224d-11e7-919a-91c7333cb0aa.jpg" width="416" height="62"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">中共否认盗用死刑犯器官的态度过去一直很明确。<br>
@@ -232,7 +233,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image013.jpg" width="533" height="354"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069385/7414939a-224d-11e7-8c6e-7e08e0015637.jpg" width="533" height="354"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">我们可以清楚地看到，在2003年前后，移植数量有一个大幅度的飞跃，2007年又降了下来，但是，仍然维持在比2003年前高的水平。更形象地表示，我们可以用一个类似核爆炸的“蘑菇云”来表示中国器官移植市场的变化，2003年就是那个“蘑菇云”的膨胀点。那么，这个器官移植市场的“蘑菇云”需要的供体，是来自哪里呢？<br>
@@ -381,7 +382,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image014.png" width="249" height="324"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069381/74114410-224d-11e7-8b22-ff1a13cc37df.png" width="249" height="324"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">2006年3月，中国辽宁省沈阳市的苏家屯报出了惊天黑幕。曾经是新闻记者的知情人皮特（化名）向海外媒体透露苏家屯地区有一个秘密关押法轮功学员的集中营，这些法轮功学员的内脏器官在人还活着的情况下被割除，贩卖，然后他们的躯体被焚烧掉。<br>
@@ -400,7 +401,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image015.jpg" width="455" height="305"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069386/7414ca36-224d-11e7-80d5-8e201fb71eb5.jpg" width="455" height="305"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">
@@ -469,7 +470,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image017.png" width="213" height="340"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069384/7414597a-224d-11e7-87c4-5d6677dfe8ff.png" width="213" height="340"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">2006 年11月17日，以色列最大的报纸Yediot Achronot发表了一篇题为《器官中介人逃税》的报道。<br>
@@ -516,7 +517,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image018.png" width="248" height="324"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069383/741407f4-224d-11e7-994c-d006424c2052.png" width="248" height="324"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">证：说你杀了我一个人，大概意思就是你杀了我一个人，你还能杀了我们好几亿人么，为了自己真正的信仰被你们迫害的人么？这个时候，那个医生、军医犹豫了一下，然后看了我一眼，又看了我们的领导一眼，然后领导点了一个头，他还继续把血管……先摘的是心脏，还是再摘的肾。当心脏的血管剪动一下，她就进行抽搐，非常可怕的，我给你学下声音，反正我也学不好，撕裂的撕裂的那样式的，然后就啊啊…… 
@@ -535,7 +536,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-										<img border="0" src="huozhaizhenxiang/image019.jpg" width="288" height="186"></p>
+										<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069387/7415f046-224d-11e7-9809-b01e90ef79c5.jpg" width="288" height="186"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">2003年8月，山东省烟台市52岁的贺秀玲因为制作法轮功真相的印刷品被非法抓捕，投入看守所。<br>
@@ -613,7 +614,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image023.png" width="173" height="203"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069388/7416a0a4-224d-11e7-87be-f73126c5a76d.png" width="173" height="203"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">◆由于证据确凿、铁证如山，自2006年8月起，联合国反酷刑调查特派专员曼弗雷德•诺瓦克（Manfred 
@@ -624,7 +625,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image024.jpg" width="241" height="146"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069390/741946ba-224d-11e7-8747-b4547c2ed64b.jpg" width="241" height="146"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">◆2013年5月9日，在澳大利亚新州议会举行的听证辩论会上，绿党上议员大卫•舒布瑞杰（David Shoebridge右一）、约翰•凯（John 
@@ -632,7 +633,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image025.png" width="197" height="199"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069391/7419809e-224d-11e7-8d17-2058b95ca53c.png" width="197" height="199"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">◆ 
@@ -649,7 +650,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image026.jpg" width="240" height="153"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069392/7419c0fe-224d-11e7-93a4-e22a8e9d12e3.jpg" width="240" height="153"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">◆2013年12月12日，在本年度欧洲议会最后一次全体大会上，议员们投票通过了一项紧急议案，要求“中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为”。这项决议要求“欧盟对中国境内的器官移植，以及与这种不道德行为相关的迫害做出全面、透明的调查。”决议同时呼吁中共“立即释放”包括法轮功学员在内的所有良心犯。<br>
@@ -663,7 +664,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image027.jpg" width="282" height="159"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069389/741941ce-224d-11e7-9fd0-559704ee97ce.jpg" width="282" height="159"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">◆2014年10月21日隶属于加拿大国会外交委员会的国际人权委员会第二次在渥太华国会大厦C237举行关于中共活体摘取法轮功学员器官的听证会。<br>
@@ -680,7 +681,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image028.png" width="192" height="172"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069393/741ab7f2-224d-11e7-94db-336c510f3d12.png" width="192" height="172"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">最近几年中共高官频频落马，表面上看是中共的权力内斗，是在清洗政敌，是在反腐，但实际上是追随江泽民迫害法轮功而遭到的报应，高官落马潮的背后彰显的是“善恶有报”的天理。<br>
@@ -748,7 +749,7 @@
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
-					<img border="0" src="huozhaizhenxiang/image029.png" width="222" height="205"></p>
+					<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069394/741c70c4-224d-11e7-8d47-699f417a1cf8.png" width="222" height="205"></p>
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">“全球声援中国民众控告江泽民的刑事举报联署活动”从2015年7月到2016年9月，港澳、台湾、日本、韩国、印尼、新加坡、马来西亚等亚洲7个国家及地区已有180万人连署举报江泽民；自2015年5月至2016年5月，在中国大陆已有超过21万名民众联名举报迫害法轮功的元凶江泽民。<br>
