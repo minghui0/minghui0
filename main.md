@@ -1,6 +1,6 @@
 <div align="center">
 
-# 法轮功真相（载自<a href="links.htm">明慧网</a>）
+# 法轮功真相（载自明慧网）
 
 <table border="0" width="700" id="table1">
 		<tr align=center>
