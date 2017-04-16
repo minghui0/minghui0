@@ -2,17 +2,10 @@
 
 # 法轮功真相（载自<a href="links.htm">明慧网</a>）
 
-
-
-
-
-
-
-
 <table border="0" width="700" id="table1" height="678">
 		<tr align=center>
 			<td height="220">
-<a href="fldfjj.html"><img src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg>
+<img src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg>
 			<a href="fldfjj.html">法轮大法简介</a></td>
 			<td height="220"><a href="fldfhcsj.html">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068799/b442874e-223c-11e7-9e2c-4db4bbac87ed.jpg></a><br>
