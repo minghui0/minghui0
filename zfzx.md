@@ -5,9 +5,9 @@
 		<tr>
 			<td>
 			<p align="center">
-			<img border="0" src="zfzx_files/image002.jpg" width="420" height="597"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069414/1f886b2a-224e-11e7-83ac-e4d1678560f6.jpg" width="420" height="597"></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image009.jpg" width="381" height="72"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069416/1f8aab60-224e-11e7-9bd9-e3753a2f7f7b.jpg" width="381" height="72"></p>
 			<p align="left">
 			<span style="font-size: 16.0pt; font-family: 华文新魏; mso-hansi-font-family: 楷体; color: #0000CC">
 			“天安门自焚事件”回放</span><br>
@@ -22,15 +22,15 @@
 			<br>
 			事实真相究竟如何？为什么新华社在事发两小时后，一反“层层请示、迟迟不报”的常态，以惊人速度报道了自焚事件，并一口咬定他们是法轮功学员？自焚者真的是法轮功学员吗？法轮功的书中明确写着“炼功人不能杀生”“自杀是有罪的”。那么，自焚者不是法轮功学员，这重重迷雾后究竟又是怎样一个“庐山真面目”？</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image011.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069415/1f89f86e-224e-11e7-95eb-e03c1ed2d3f5.jpg" width="381" height="51"></p>
 			<p align="left">
 			在“自焚”事件发生一个星期之后，央视的“焦点访谈”播出了自焚专题节目，里面引用了很多自焚现场的录像。但是，通过对“焦点访谈”的自焚录像进行慢镜头播放和分析，发现了大量疑点。<br>
 			<br>
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			被当场灭口的刘春玲</span></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image013.jpg" width="454" height="188"><br>
-			<img border="0" src="zfzx_files/image012.jpg" width="453" height="190"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069417/1f8cc8b4-224e-11e7-9e51-834af127dda4.jpg" width="454" height="188"><br>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069420/1f8f14b6-224e-11e7-9f6c-4be853d749de.jpg" width="453" height="190"></p>
 			<p align="left">中共称：刘春玲是被烧死的。但央视录像表明：刘是在自焚现场被人用重物击打头部致死。<br>
 			<br>
 			通过慢镜头可以看见，刘春玲身上的火焰已基本熄灭，突然，有人用重物猛击她的头部。（见上图1）刘随即倒地，一条状物快速弹起，飞出。（见上图2）谁是出手之人？如果把镜头止住，可以看见挥动的手臂接近刘的头部，穿军衣的武警正走向镜头前，他身后，一名身穿大衣的男子正好站在出手投掷重物的方位，仍保持一秒钟前用力的姿势。（见上图4）我们还可看到，刘倒地时，左手不自觉抬起来触摸被打击部位。（见上图3）<br>
@@ -41,21 +41,21 @@
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			采访不穿隔离衣？</span></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image016.jpg" width="209" height="136"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069419/1f8f3ae0-224e-11e7-95d7-586c361e3080.jpg" width="209" height="136"></p>
 			<p align="left">
 			根据医学常识，为防细菌感染，危及生命，大面积烧伤病人要住隔离病房，探视者需穿戴隔离衣帽、手套、鞋套。而“焦点访谈”记者李玉强直接穿便服近距离采访刘思影，分明是在演戏！<br>
 			<br>
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			头发和塑料瓶子烧不坏？</span></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image018.jpg" width="320" height="217"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069418/1f8d8eca-224e-11e7-95ba-612a0f9bd2f9.jpg" width="320" height="217"></p>
 			<p align="left">
 			央视录像中，被大火烧过的王进东，面部严重烧坏，腿上的棉衣烧烂，但他两腿间盛汽油的塑料雪碧瓶却翠绿如新，最易着火的头发也还完整。<br>
 			<br>
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			气管切开4天能唱歌？</span></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image020.jpg" width="180" height="182"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069422/1f912044-224e-11e7-9f1d-62d92a2e9c2b.jpg" width="180" height="182"></p>
 			<p align="left">
 			央视称，12岁的刘思影做了气管切开手术。手术切口在声带的下方，此时人通过插入切口的管子呼吸，气流不过声带，根本无法正常说话。但刘思影术后4天接受记者李玉强采访时，不仅说话底气十足，还对着麦克风唱歌！被海外医学界人士戏称中央电视台“创造了医学奇迹”。<br>
 			<br>
@@ -78,7 +78,7 @@
 			<br>
 			面对国际社会质疑，中共谎称这些镜头是CNN拍摄的，但CNN发言人驳斥说，他们的记者在“自焚”案发前就被中共控制，摄像机被没收。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image022.jpg" width="207" height="160"><br>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069421/1f915ef6-224e-11e7-94bb-a6dd29cbb0a7.jpg" width="207" height="160"><br>
 			现场有人用摄像机不受限制地近距离拍摄</p>
 			<p align="left">
 			从央视的自焚录像上，可清楚看到在广场军警中间，一个背摄影包的男子正在从容地现场拍摄。当外界指问此人是谁时，中共不敢回应。<br>
@@ -86,7 +86,7 @@
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
 			警察等镜头，拎着灭火毯作秀</span></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image018.jpg" width="320" height="217"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069418/1f8d8eca-224e-11e7-95ba-612a0f9bd2f9.jpg" width="320" height="217"></p>
 			<p align="left">
 			央视自焚录像中，自焚的王进东身后，一警察单手拎着灭火毯，晃来晃去等待拍摄，等王喊完口号后，才把灭火毯盖到王的头上：这明显是在演戏。<br>
 			<br>
@@ -95,7 +95,7 @@
 			<br>
 			2002年初，记者李玉强（自焚案采访者）在河北省会法制教育培训中心（强迫法轮功学员放弃信仰的洗脑班）采访，被非法关押的法轮功学员追问自焚案的种种漏洞，李不得不承认：“王进东”腿间的雪碧瓶子是她们放进去“补拍”的。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image026.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069423/1f9352c4-224e-11e7-8f23-02c2fa4eb3e9.jpg" width="381" height="51"></p>
 			<p align="left">中共精心策划了“自焚”事件，但是真相被披露后，这一世纪伪案使中共的丑恶彻底曝光，成为它无法摆脱的梦魇。<br>
 			<br>
 			<span style="font-size: 12.0pt; font-family: 黑体; color: #0000CC">
@@ -132,9 +132,9 @@
 			<br>
 			该声明已被联合国备案。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image034.jpg" width="381" height="72"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069424/1f933afa-224e-11e7-9ee9-77c180f3485b.jpg" width="381" height="72"></p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image036.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069426/1f94b150-224e-11e7-9332-39eb1e619af4.jpg" width="381" height="51"></p>
 			<p align="left">
 			“谁给我饭吃，我就给谁卖命。”陈虻（天安门自焚伪案的制片人）这句高调的发言，没想到一语成谶，果然把47岁年轻的性命卖给了中共。<br>
 			<br>
@@ -153,13 +153,13 @@
 			<br>
 			给横遭恶报的陈虻以极高的荣誉，是中共对出卖灵魂者最大的鼓励。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image040.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069425/1f94af70-224e-11e7-8a1d-7185fc3162e7.jpg" width="381" height="51"></p>
 			<p align="left">
 			罗京，48岁，原央视新闻联播主持人。1989年6月4日中共用机枪坦克镇压学生民主运动后，罗京一改以前同情学生的立场，6月5日即以主播身份现身新闻联播，作为中共的喉舌来欺骗民众。1999年中共迫害法轮功，罗京声情并茂地传播中共的谎言，污蔑法轮功，欺骗、毒害了无数民众。<br>
 			<br>
 			2008年罗京被查出患淋巴癌，移植骨髓后基本康复。但两个月后复发，并出现口腔溃疡等并发症，舌头溃烂，不能说话，连喝水都疼痛难忍。6月5日死于北京肿瘤医院。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image042.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069427/1f96e092-224e-11e7-996c-bcc790f2b766.jpg" width="381" height="51"></p>
 			<p align="left">
 			公元一世纪，古罗马暴君尼禄故意纵火焚烧罗马城，嫁祸于基督徒。为了进一步煽起人民对基督徒的仇恨，一些官方学者把基督徒描绘为迷信、反社会、反人类，有政治野心。善良的基督徒被投入竞技场，被猛兽活生生地咬死……面对如此惨绝人寰的场面，被谎言蒙蔽了的人们却大声叫好！<br>
 			<br>
@@ -169,11 +169,11 @@
 			<br>
 			历史正在重演，中共对法轮功的迫害，正在重复古罗马被天灭的教训，被中共谎言蒙蔽的人们，正被中共带向恶报的深渊。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image044.jpg" width="381" height="51"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069428/1f97372c-224e-11e7-84dc-e9230b6baa47.jpg" width="381" height="51"></p>
 			<p align="left">
 			2002年6月，在贵州省平塘县掌布乡发现了一块巨型“藏字石”，石头断面上呈现着6个大字：中國共產党亡。经国家级地质专家考察证实：这块巨石有2.7亿年的历史，于500年前崩裂，上面的字是天然形成的，没有任何人工雕琢的痕迹。海内外一百多家报纸、电视台、网站转发了这个消息，国内媒体包括中央电视台也多次专题报道，但都统一措辞，隐去了最后一个“亡”字。“藏字石”的图片还被赫然印在贵州“藏字石”风景区的门票上。</p>
 			<p align="center">
-			<img border="0" src="zfzx_files/image047.jpg" width="383" height="161"></p>
+			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25069429/1f991628-224e-11e7-9421-ef62d8a550a3.jpg" width="383" height="161"></p>
 			<p align="left">
 			冥冥之中自有天意。几千年来的中国，在要出大事之前，就一定有奇事发生，上天或以瑞兆示吉，或以凶相警世。今天，“藏字石”呈现“中國共產党亡”，是不是也在向人们预示着天机呢？回顾中共执政60多年以来的几十场政治运动，从土改、镇反、三反、五反、反右、大跃进、文革、六四到迫害法轮功，从普通百姓到国家主席，中国人有一半以上受到过中共的迫害。据不完全统计，有8000多万中国人在中共执政期间非正常死亡，这个数字是第一次世界大战死亡人数的8倍，是第二次世界大战死亡人数的1.5倍。再看当今中国社会：道德沦丧，工人失业，农民失地，贪官横行，官商勾结，警匪一家，百姓怨声载道。这样罪恶累累的中共，上天还能容它吗？由此看来，亿年古石如今突现“中國共產党亡”，绝非偶然：天真要灭中共了。</td>
 		</tr>
