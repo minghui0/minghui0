@@ -1,5 +1,3 @@
-<style></style>
-
 <div align="center">
 	
 
