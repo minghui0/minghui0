@@ -3,7 +3,6 @@
 # 法轮功真相（载自<a href="links.htm">明慧网</a>）
 
 <table border="0" width="700" id="table1" height="678">
-
 		<tr align=center>
 			<td height="220"><a href="fldfjj.html">
 			<img border="0" src="./images/dafa-jianjie.jpg" width="280" height="200"></a><br>
