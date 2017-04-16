@@ -13,15 +13,15 @@
 		</tr>
 		<tr align=center>
 			<td>
-			<a href="zfzx.htm">
+			<a href="zfzx.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068804/b44c3e38-223c-11e7-8b85-b3c54b6cf88b.jpg" width="280" height="200"><br>
-			天安门自焚伪案</a> <span lang="en-us">&nbsp;</span>|<span lang="en-us"> </span>&nbsp;<a href="zfpjdh-1.htm">动画版</a></td>
-			<td><a href="huozhaizhenxiang.htm">
+			天安门自焚伪案</a> <span lang="en-us">&nbsp;</span>|<span lang="en-us"> </span>&nbsp;<a href="zfpjdh-1.md">动画版</a></td>
+			<td><a href="huozhaizhenxiang.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068780/b42cddd6-223c-11e7-886f-bdef820abb9b.png" width="280" height="200"><br>
 			中共活摘器官</a></td>
 		</tr>
 		<tr align=center>
-			<td><a href="qna.htm">
+			<td><a href="qna.md">
 			<img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068798/b4424a72-223c-11e7-8e7d-76de100c6cfd.jpg" width="280" height="200"><br>
 			关于法轮功真相的几个问答</a></td>
 			<td>
