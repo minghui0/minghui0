@@ -1,9 +1,3 @@
-<table border="0" id="table1">
-<tr>
-<td>
-			
-
-
 # 中共活摘器官
 			
 
