@@ -28,6 +28,7 @@
 			<a href="https://cloud.githubusercontent.com/assets/26177494/25068802/b4451ed2-223c-11e7-91a7-19e9062db778.jpg">
                         <img border="0" src="https://cloud.githubusercontent.com/assets/26177494/25068802/b4451ed2-223c-11e7-91a7-19e9062db778.jpg" width="275" height="184"></a><br>
                         <a href="images/三退问答-内容.jpg">
+                        “三退”问答选编（手机图片版）</a></td>
 		</tr>
 	</table>
 </div>
