@@ -6,7 +6,6 @@
 			<td>
 			
 
-<p align="center">
 
 # 中共活摘器官</p>
 			
