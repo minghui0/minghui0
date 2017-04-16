@@ -163,8 +163,8 @@
 
 <p class="MsoNormal" style="line-height: 24.0pt" align="center">
 
-## 瑞士36名政要联名致信联合国<br>
-					敦促控告江泽民</p>
+## 瑞士36名政要联名致信联合国
+敦促控告江泽民
 					
 
 <p class="MsoNormal" style="line-height: 24.0pt">2016年6月8日，瑞士36名政要联名致信联合国人权事务高级专员Zeid Ra’ad Al 
