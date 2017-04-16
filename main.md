@@ -7,7 +7,7 @@
 <img src="https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg">
 
 
-<img src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg>
+<img src="https://cloud.githubusercontent.com/assets/26177494/25068800/b4437596-223c-11e7-9aac-a40362e442c0.jpg">
 
 			<a href="fldfjj.html">法轮大法简介</a></td>
 			<td height="220"><a href="fldfhcsj.html">
